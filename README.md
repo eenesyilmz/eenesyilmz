@@ -32,53 +32,16 @@
 <div align="center">
 
 #### Mobil & Frontend
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,html,css,js,ts&theme=dark" alt="Mobile & Frontend" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,,html,css,js,php,ts&theme=dark" alt="Mobile & Frontend" />
 
 <br/>
 
 #### Backend, Veritabanı & Altyapı
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,nodejs,postgres,mysql,redis,nginx&theme=dark" alt="Backend & DB" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,postgres,mysql,redis,nginx&theme=dark" alt="Backend & DB" />
 
 <br/>
 
 #### IT Support, İşletim Sistemleri & Araçlar
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,git,github,postman,figma&theme=dark" alt="IT & Tools" />
 
-</div>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=94a3b8&bg_color=0f172a" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=tokyonight&hide_border=true&stroke=6366f1&ring=6366f1&fire=6366f1&background=0f172a" alt="Streak Stats" />
-</div>
-
----
-
-### 📌 Öne Çıkan Projeler
-
-| Proje | Tanım | Teknolojiler |
-| :--- | :--- | :--- |
-| 📱 **Mobile App Projesi** | Rota planlama ve gerçek zamanlı lokasyon bazlı mobil uygulama. | `Flutter`, `Dart`, `Firebase` |
-| ⚙️ **IT Management Hub** | Ağ ve donanım envanter takip paneli ve destek bileti sistemi. | `ASP.NET Core`, `PostgreSQL`, `Docker` |
-| 🌐 **API Gateway Service** | Yüksek trafikli mobil istemciler için mikroservis ve proxy mimarisi. | `Linux`, `Nginx`, `C#` |
-
----
-
-<div align="center">
-  <sub>Tasarım ve mimari: <b>Sistem kararlılığı + akıcı mobil deneyimler.</b></sub>
 </div>
