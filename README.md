@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Developer;IT+Support+%26+Systems+Intern;Building+Scalable+Mobile+%26+Backend+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Developer;IT+Support+%26+Systems+Intern" alt="Typing SVG" />
 
   <p align="center">
     <b>Cross-platform & Native mobil çözümler üreten, sistem altyapısı ve IT destek operasyonlarını yöneten çok yönlü geliştirici.</b>
