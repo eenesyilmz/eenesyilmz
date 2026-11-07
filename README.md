@@ -39,7 +39,7 @@
 <div align="center">
 
 #### Mobil & Frontend
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,html,css,js,php,ts&theme=dark" alt="Mobile & Frontend" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,html,css,js,php&theme=dark" alt="Mobile & Frontend" />
 
 <br/>
 
