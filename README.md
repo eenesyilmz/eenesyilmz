@@ -42,6 +42,6 @@
 <br/>
 
 #### IT Support, İşletim Sistemleri & Araçlar
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,git,github,jetkins,figma&theme=dark" alt="IT & Tools" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,git,github,figma&theme=dark" alt="IT & Tools" />
 
 </div>
