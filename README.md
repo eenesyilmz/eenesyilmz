@@ -32,16 +32,16 @@
 <div align="center">
 
 #### Mobil & Frontend
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,,html,css,js,php,ts&theme=dark" alt="Mobile & Frontend" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,html,css,js,php,ts&theme=dark" alt="Mobile & Frontend" />
 
 <br/>
 
 #### Backend, Veritabanı & Altyapı
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,redis,nginx&theme=dark" alt="Backend & DB" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,nginx&theme=dark" alt="Backend & DB" />
 
 <br/>
 
 #### IT Support, İşletim Sistemleri & Araçlar
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,git,github,postman,figma&theme=dark" alt="IT & Tools" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,git,github,jetkins,figma&theme=dark" alt="IT & Tools" />
 
 </div>
