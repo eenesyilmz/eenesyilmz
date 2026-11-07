@@ -8,7 +8,7 @@
 
   <p align="center">
     <a href="https://tetr4digital.com" target="_blank">
-      <img src="https://img.shields.io/badge/Tetr4%20Digital-Studio%20%26%20Agency-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Tetr4 Digital" />
+      <img src="https://img.shields.io/badge/Tetr4%20Digital-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Tetr4 Digital" />
     </a>
   </p>
 
