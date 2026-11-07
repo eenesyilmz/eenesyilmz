@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner / Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Mobile+Developer;IT+Support+%26+Systems+Specialist;Building+Scalable+Mobile+%26+Backend+Solutions" alt="Typing SVG" />
+  <!-- Header Banner / Typing SVG (Genişlik ve font boyutu kesilmeyi önleyecek şekilde optimize edildi) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Full+Stack+Mobile+Developer;IT+Support+%26+Systems+Specialist;Building+Scalable+Mobile+%26+Backend+Solutions" alt="Typing SVG" />
 
   <p align="center">
     <b>Cross-platform & Native mobil çözümler üreten, sistem altyapısı ve IT destek operasyonlarını yöneten çok yönlü geliştirici.</b>
@@ -22,7 +22,7 @@
 
 - 📱 **Mobile Development:** Flutter ve native mimarilerle cross-platform, performans odaklı ve temiz mimarili (Clean Architecture / BLoC / MVVM) mobil uygulamalar geliştiriyorum.
 - 🛠️ **Full-Stack & Backend:** REST API servisleri, veritabanı modelleme ve backend süreçlerini modern web & mikroservis standartlarında inşa ediyorum.
-- 🖥️ **IT Support & Systems:** Ağ yapılandırmaları, donanım/yazılım sorun giderme, Linux/Ubuntu sunucu yönetimi, kullanıcı destek operasyonları ve sistem güvenliği alanlarında aktif rol alıyorum.
+- 🖥️ **IT Support & Systems:** Ağ yapılandırmaları, donanım/yazılım sorun giderme, Linux/Ubuntu sunucu yönetimi, CI/CD süreçleri, kullanıcı destek operasyonları ve sistem güvenliği alanlarında aktif rol alıyorum.
 - ⚡ **Sürekli Öğrenme:** Bulut mimarileri, DevOps entegrasyonları (CI/CD) ve mobil optimizasyon teknikleri üzerine pratik yapıyorum.
 
 ---
@@ -41,7 +41,7 @@
 
 <br/>
 
-#### IT Support, İşletim Sistemleri & Araçlar
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,git,github,figma&theme=dark" alt="IT & Tools" />
+#### IT Support, DevOps, Sistem & Araçlar
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,kubernetes,jenkins,git,github,figma&theme=dark" alt="IT & Tools" />
 
 </div>
