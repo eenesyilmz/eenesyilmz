@@ -49,6 +49,6 @@
 <br/>
 
 #### IT Support, DevOps, Sistem & Araçlar
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,kubernetes,jenkins,git,figma&theme=dark" alt="IT & Tools" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,bash,docker,kubernetes,jenkins,git,gitlab,figma&theme=dark" alt="IT & Tools" />
 
 </div>
