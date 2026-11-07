@@ -37,7 +37,7 @@
 <br/>
 
 #### Backend, Veritabanı & Altyapı
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,postgres,mysql,redis,nginx&theme=dark" alt="Backend & DB" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,redis,nginx&theme=dark" alt="Backend & DB" />
 
 <br/>
 
